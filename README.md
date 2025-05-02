@@ -1,4 +1,4 @@
-# Project Name: DeepSoul Assignment
+# Project Name: DeepSoul 
 ## 🚀 Live Demo
 👉 [Click here to view the live project](https://fabulous-moxie-43367a.netlify.app/)
 
@@ -27,12 +27,4 @@
 - **Scroll to Top Button:** 
   - A floating button that appears when the user scrolls down and takes them back to the top of the page.
 
-## Improvements with More Time
 
-If I had more time, I would implement the following features:
-
-1. **CommunitySection**  
-   
-
-2. **FeatureSection**  
-   
